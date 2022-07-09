@@ -20,7 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/GM/GM9PRO_sprout/proprietary/lib/libsdm-disp-apis.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsdm-disp-apis.so \
     vendor/GM/GM9PRO_sprout/proprietary/lib64/fm_helium.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/fm_helium.so \
     vendor/GM/GM9PRO_sprout/proprietary/lib64/libjson.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libjson.so \
-     vendor/GM/GM9PRO_sprout/proprietary/lib64/libtinyxml.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libtinyxml.so \
+    vendor/GM/GM9PRO_sprout/proprietary/lib64/libtinyxml.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libtinyxml.so \
     vendor/GM/GM9PRO_sprout/proprietary/lib64/libFileMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libFileMux.so \
     vendor/GM/GM9PRO_sprout/proprietary/lib64/libOmxMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libOmxMux.so \
     vendor/GM/GM9PRO_sprout/proprietary/lib64/libantradio.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libantradio.so \
