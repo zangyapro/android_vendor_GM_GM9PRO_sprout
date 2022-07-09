@@ -8,7 +8,7 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/GM/GM9PRO_sprout/proprietary/lib/fm_helium.so:$(TARGET_COPY_OUT_SYSTEM)/lib/fm_helium.so \
     vendor/GM/GM9PRO_sprout/proprietary/lib/libjson.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libjson.so \
-    vendor/GM/GM9PRO_sprout/proprietary/lib/libtinyxml.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libtinyxml.so \ 
+    vendor/GM/GM9PRO_sprout/proprietary/lib/libtinyxml.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libtinyxml.so \
     vendor/GM/GM9PRO_sprout/proprietary/lib/libFileMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFileMux.so \
     vendor/GM/GM9PRO_sprout/proprietary/lib/libOmxMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libOmxMux.so \
     vendor/GM/GM9PRO_sprout/proprietary/lib/libantradio.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libantradio.so \
